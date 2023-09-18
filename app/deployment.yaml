@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring
-        image: sovanseyha/devops-spring-test:latest
+        image: sovanseyha/devops-spring-test:29
         ports:
         - containerPort: 8080
